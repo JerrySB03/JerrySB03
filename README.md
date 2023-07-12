@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi, i am Šimon Kimel, cybersecurity student at SSPŠ.
+Currently working on HochwertigeSW/calendar.
+My main programming language is C++, working with framework oatpp/oatpp
+
+![JerrySB03's Stats](https://github-readme-stats.vercel.app/api?username=JerrySB03&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![JerrySB03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JerrySB03&theme=vue-dark&hide_border=true)
+
 
 <!--
 **JerrySB03/JerrySB03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
