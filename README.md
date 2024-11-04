@@ -1,6 +1,4 @@
 Hi, i am Šimon Kimel, cybersecurity student at SSPŠ.
-Currently working on HochwertigeSW/calendar.
-My main programming language is C++, working with framework [Oatpp](https://github.com/oatpp/oatpp)
 
 ![JerrySB03's Stats](https://github-readme-stats.vercel.app/api?username=JerrySB03&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
